@@ -31,7 +31,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 
 ## 📂 Dataset
-Download the dataset from [Google Drive Link]((https://drive.google.com/drive/folders/1PMj1HKFWa2dwTruAS0-veu4ZLyYaWTCu?usp=sharing)).
+Download the dataset from [Google Drive Link](https://drive.google.com/drive/folders/1PMj1HKFWa2dwTruAS0-veu4ZLyYaWTCu?usp=sharing).
 Place it in the `data/` folder before running the app.
 
 
