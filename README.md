@@ -20,7 +20,7 @@ Once the data is prepared, the app provides three main sections:
 Installation
 
 1. Clone the repository:
-git clone [https://github.com/your-username/ai-trending-product-detector.git](https://github.com/your-username/ai-trending-product-detector.git)
+git clone [https://github.com/1udaypawar/ai-trending-product-detector.git](https://github.com/1udaypawar/ai-trending-product-detector.git)
 cd ai-trending-product-detector
 
 2. Create and activate a virtual environment (recommended):
