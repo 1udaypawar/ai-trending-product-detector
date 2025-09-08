@@ -30,6 +30,11 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 3. Install the required dependencies:
 pip install -r requirements.txt
 
+## 📂 Dataset
+Download the dataset from [Google Drive Link]([https://drive.google.com/yourfile](https://drive.google.com/drive/folders/1PMj1HKFWa2dwTruAS0-veu4ZLyYaWTCu?usp=sharing)).
+Place it in the `data/` folder before running the app.
+
+
 Usage
 
 1. Run the Streamlit application:
