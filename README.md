@@ -1,3 +1,5 @@
+here is link for drive where you can find the project video [google drive]('https://drive.google.com/drive/folders/1PU_i-CGYICOdbiwI6BX2D4Q9M2rPlEr0?usp=sharing')
+
 AI Trending Product Detector
 
 This is a web application built with Streamlit that uses AI to analyze sales data, provide business insights, and forecast future bestselling products.
